@@ -1,16 +1,21 @@
 UIC-Course-Selection
 ====================
 
-This program was used to automatic select UIC's courses. 
-Written in Python with Pyside and QT Creator.
-
-dependence:
-beautifulsoup 4 
-pyside
-
+###Intro  
+ 
+This program was used to automatic select UIC's courses.   
+Written in Python with Pyside and QT Creator.  
+  
 
 
+###Dependence 
+
+*  Python 2.7
+*  Beautifulsoup 4 
+*  Pyside
 
 
-Author:Xingzhi 
+
+###Author
+Xingzhi  
 lvyaojia@gmail.com
